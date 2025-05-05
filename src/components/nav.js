@@ -51,7 +51,7 @@ export default function Nav() {
         ))}
       </ul>
 
-      <div className={styles.navigationButtons}>
+      <div className={styles.navButtons}>
         {currentPage > 1 && (
           <Link href={pages[currentPage - 2].href}>
             <button onClick={() => setCurrentPage(currentPage - 1)}>

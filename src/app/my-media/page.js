@@ -1,3 +1,7 @@
 export default function MyMedia() {
-  return <div>hello</div>;
+  return (
+    <div>
+      <div>My Media</div>
+    </div>
+  );
 }
