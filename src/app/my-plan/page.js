@@ -1,7 +1,7 @@
 export default function MyPlan() {
   return (
-    <div>
-      <div>My Plan</div>
-    </div>
+    <section>
+      <h1>My Plan</h1>
+    </section>
   );
 }

@@ -1,10 +1,32 @@
 "use client";
 import styles from "@styles/components/nav.module.scss";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 export default function Nav() {
   const [currentPage, setCurrentPage] = useState(1);
+
+  const pageBackgroundColors = [
+    "#D00000", // home
+    "#DC2F02", // my media
+    "#E85D04", // guidelines
+    "#F48C06", // my plan
+    "#FAA307", // long-term
+    "#FFBA08", // conclusion
+  ];
+
+  useEffect(() => {
+    const savedPage = localStorage.getItem("currentPage");
+    if (savedPage) {
+      setCurrentPage(Number(savedPage));
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem("currentPage", currentPage);
+
+    document.body.style.backgroundColor = pageBackgroundColors[currentPage - 1];
+  }, [currentPage]);
 
   const pages = [
     {
@@ -44,9 +66,10 @@ export default function Nav() {
           <li
             key={index}
             className={currentPage === index + 1 ? styles.active : ""}
-            onClick={() => handlePageClick(index)}
           >
-            <Link href={page.href}>{page.pageName}</Link>
+            <Link onClick={() => handlePageClick(index)} href={page.href}>
+              {page.pageName}
+            </Link>
           </li>
         ))}
       </ul>

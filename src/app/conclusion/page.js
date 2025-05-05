@@ -1,7 +1,7 @@
 export default function Conclusion() {
   return (
-    <div>
-      <div>Conclusion</div>
-    </div>
+    <section>
+      <h1>Conclusion</h1>
+    </section>
   );
 }

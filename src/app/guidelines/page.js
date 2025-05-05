@@ -10,11 +10,11 @@ export default function Guidelines() {
 
       try {
         const res = await fetch(path);
+        const data = await res.json();
+        setGuidelines(data.guidelines);
         if (!res.ok) {
           throw new Error(res.status);
         }
-        const data = await res.json();
-        setGuidelines(data.guidelines);
       } catch (error) {
         console.log(error);
       }
@@ -24,11 +24,11 @@ export default function Guidelines() {
   }, []);
 
   return (
-    <div>
-      <div>Guidelines</div>
+    <section>
+      <h1>Guidelines</h1>
       {guidelines.map((guideline, index) => (
         <li key={index}>{guideline.title}</li>
       ))}
-    </div>
+    </section>
   );
 }

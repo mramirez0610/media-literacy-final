@@ -1,5 +1,14 @@
+@use "../all" as *;
+
 .content {
   width: 85vw;
-  min-height: 100vh;
+  min-height: 80vh;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  h1 {
+    font-size: 3rem;
+  }
 }

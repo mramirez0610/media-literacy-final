@@ -1,4 +1,5 @@
 @use "./all" as *;
+@import url("https://api.fontshare.com/v2/css?f[]=switzer@200,301,400,401,500,600&f[]=general-sans@400,500,501,600,601,700,701&display=swap");
 
 * {
   margin: 0;
@@ -8,6 +9,9 @@
 html,
 body {
   height: 100%;
+  color: $white;
+  transition: background-color 0.3s ease;
+  font-family: $body-font;
 }
 h1,
 h2,
@@ -17,4 +21,9 @@ h5,
 h6,
 p {
   margin-bottom: 16px;
+}
+
+h1,
+h2 {
+  font-family: $header-font;
 }

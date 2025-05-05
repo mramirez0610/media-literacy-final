@@ -1,7 +1,7 @@
 export default function LongTerm() {
   return (
-    <div>
-      <div>Long Term</div>
-    </div>
+    <section>
+      <h1>Long Term</h1>
+    </section>
   );
 }
