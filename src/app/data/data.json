@@ -1,0 +1,87 @@
+{
+    "pages": [
+        {
+            "id": 1,
+            "title": "The 12 Guidelines of Media Literacy",
+            "content": "",
+            "guidelines": [
+                {
+                "id": 1,
+                "title": "Strengthen your personal locus.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 2,
+                "title": "Focus on personal usefulness as a goal",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 3,
+                "title": "Develop an accurate awareness of your exposure.",
+                "description": ""
+                },
+                {
+                "id": 4,
+                "title": "Acquire a broad base of useful knowledge.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 5,
+                "title": "Think about the reality-fantsy continuum.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 6,
+                "title": "Examine your mental codes.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 7,
+                "title": "Examine your options.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 8,
+                "title": "Change behaviors.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 9,
+                "title": "Make cross-channel comparisons.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 10,
+                "title": "Become more skilled at designing messages.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 11,
+                "title": "Do not take privacy for granted.",
+                "description": "",
+                "image": ""
+                },
+                {
+                "id": 12,
+                "title": "Take personal responsibility.",
+                "description": "",
+                "image": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "What media & media literacy mean to me.",
+            "description": ""
+        }
+    ]
+}

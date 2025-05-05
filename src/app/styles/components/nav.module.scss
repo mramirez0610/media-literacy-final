@@ -1,0 +1,24 @@
+.nav {
+  height: 10vh;
+  max-width: 100vw;
+
+  ul {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
+
+    li {
+      list-style: none;
+      position: relative;
+      width: 10%;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+    }
+  }
+
+  .active {
+    background-color: red;
+  }
+}
