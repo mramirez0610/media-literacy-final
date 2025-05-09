@@ -7,10 +7,10 @@ export default function Landing() {
       <h2>How to take your media literacy to the next level</h2>
       <p>
         This project goes over the 12 Media Literacy Guidelines detailed in W.
-        James Potter&apos;s, "Introduction to Media Literacy", my interpretation
-        of those guidelines, as well as how I plan to integrate a handful of
-        these guidelines into my daily life, in pursuit of a more developed
-        sense of media literacy.
+        James Potter&apos;s, &quot;Introduction to Media Literacy&quot;, my
+        interpretation of those guidelines, as well as how I plan to integrate a
+        handful of these guidelines into my daily life, in pursuit of a more
+        developed sense of media literacy.
       </p>
       <p>
         We&apos;ll first examine what media means to me, followed by a brief
