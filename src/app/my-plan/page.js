@@ -29,7 +29,7 @@ export default function MyPlan() {
     <section className={styles.guidelineSection}>
       <h1>My Plan</h1>
       <p>
-        After reading all of the guidelines, it's clear to see that each is
+        After reading all of the guidelines, it&apos;s clear to see that each is
         integral when attempting to understand media literacy as a whole.
         Though, of those twelve, I chose 6 that I felt I needed the most growth
         in. These areas -- exposure tracking, knowledge building, mental coding,
