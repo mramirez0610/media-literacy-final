@@ -1,82 +1,76 @@
-{
+[
+  {
     "guidelines": [
-        {
+      {
         "id": 1,
         "title": "Strengthen your personal locus.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "description": "<p>Strengthening your personal locus is without a doubt the most important of the 12 guidelines. Without a strong personal locus, the rest of the guidelines are irrelevant.</p><ul><li>Your personal locus is a combination of an awareness of your goals, as well as the drive to seek information & experiences that can help you attain those goals.</li><li>It starts with your personal goals—what makes you happy, how you enjoy spending your time, what you want to achieve in life.</li><li>Once you understand your goals, try and understand where these influences come from. Are they from the real world, or media influence? Are you comfortable with how your goals have been shaped?</li><li>The next step is knowing your willingness to put forth the mental effort to satisfy your needs. Avoiding challenge and dismissing critical engagement with media causes comprehension to fall.</li><li>Engaging with challenging messages can lead to better understanding, which helps us seek new information that can benefit us long-term.</li></ul>"
+      },
+      {
         "id": 2,
-        "title": "Focus on personal usefulness as a goal",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Focus on personal usefulness as a goal.",
+        "description": "<p>A question most people should be thinking while consuming media is, \"Whose needs am I serving most?\" Engaging in habitual media exposure patterns with no particular needs is the goal of mass media. By conditioning you to engage in these patterns every day, you have become a tool for the media. Being aware of your needs, and seeking out media to help attain those needs, you are maximizing your media exposure to meet your own needs.</p>"
+      },
+      {
         "id": 3,
         "title": "Develop an accurate awareness of your exposure.",
-        "description": ""
-        },
-        {
+        "description": "<p>Keeping a \"media diary\" in where you document your usage can greatly help in assess media consumption habits (i.e different interests, interpretations, and mediums) in which you can ask yourself the following questions:</p><ul><li>\"Am I broadening my exposure to different media, or am I staying primarily with only one or two?\"</li><li>\"Am I broadening my exposure to different vehicles? (If you used to watch mainly sports and action/adventure on TV, are you now spreading your viewing around to a wider range of genres?)\"</li></ul><p>Explore. Explore more media, push yourself out of your comfort zone; watch new shows, read magazines, listen to new music, even if you hate it all. By giving yourself the opportunity to find new and/or better messages than the ones you're receiving right now, through your habitual patterns.</p>"
+      },
+      {
         "id": 4,
         "title": "Acquire a broad base of useful knowledge.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "description": "<p>Being continually aware of your needs can allow you to understand what knowledge to seek out. Amassing more information on a subject is solely dependent on us and our interest in a topic. Having general interest in a topic pushes us to seek information through a variety of different media outlets, as one can assume. Though, if our interest a topic is lacking, it's common to allow the mass-media determine the information we digest on it. By closing these gaps of knowledge over topics that we might not have the most knowledge in, we start to lay solid groundwork in our media literacy.</p>"
+      },
+      {
         "id": 5,
-        "title": "Think about the reality-fantsy continuum.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Think about the reality-fantasy continuum.",
+        "description": "<p>Media is never just reality, or just fantasy. There will always be a mix of both in every message we receive from the programs we consume. Understanding this comes along with the burdensome task of deciphering what is \"real\", and what is \"fake\" in media; and even then, those labels cannot accurately describe the heavy mix of reality and fantasy in contemporary media. The line is extremely blurred. Being wary of what messages you perceive as entirely \"real\" is necessary, and analysis of the messages you welcome in is something that takes time. Without caution, it's easy to accept fictional messages as real. It's easy to create unrealistic expectations in life due to these messages. Messages in the media are created to influence your train of though, and by not understanding the difference, you let the intended message land.</p>"
+      },
+      {
         "id": 6,
         "title": "Examine your mental codes.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "description": "<p>Ask yourself the following questions about your daily media consumption:</p><ul><li>\"Why are my media habits the way they are?\"</li><li>\"How have I programmed my habits to serve my needs?\"</li><li>\"To what extent has mass media programmed my habits to meet their needs?\"</li></ul><p>Once you've answered these questions, rethink your approach to your consumption habits. Doing this every once in a while gives you the chance to catch when you're not engaging with media for yourself, and refresh your view on media.</p>"
+      },
+      {
         "id": 7,
-        "title": "Examine your options.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Examine your opinions",
+        "description": "<p>Are your opinions consistent with one another? Do your behaviors support those opinions? If you're being honest, there's will always be inconsistencies when it comes to your opinions. This may be from the media, or form other's opinions swaying you to place your faith in a certain viewpoint, when you may not even believe in it yourself. Awareness is the key point here. Being aware of where you derive your opinions from, and aiming to keep your opinions your own is integral to achieving media literacy. Construct your own opinions, and try to attribute each part to a specific influence.</p>"
+      },
+      {
         "id": 8,
-        "title": "Change behaviors.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Change Behaviors",
+        "description": "<p>Examine your behaviors. Do they coincide with your beliefs/opinions? A common issue in today's society is the idealization of specific opinions/issues due to media consciousness, but not following with the actions to help stop the issue. An example of this, although a bit paradoxical, is the movement to take the power of current day technology away, and create a healthy social boundary that's seemingly disappeared within the last decade or so. Though many people claim to want this change, technology has integrated itself into every second of daily life, and will continue to unless behaviors are changed. Examine your beliefs. Examine your actions. Are you doing your part, for yourself?</p>"
+      },
+      {
         "id": 9,
-        "title": "Make cross-channel comparisons.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Make cross-channel comparisons",
+        "description": "<p>In our current</p><p>Note comparisons between different mediums. What are the differences, what are the similarities?</p>"
+      },
+      {
         "id": 10,
-        "title": "Become more skilled at designing messages.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Become more skilled at designing messages",
+        "description": "<p>The media landscape in the last 20 years has completely shifted due to the introduction of the internet. Creation of media is possible to anybody who has access to technology or the internet, whether it's social media, video-editing, music production, website development, game design, etc. Think about the message that's broadcasted by the media you create. How is it designed? How easy is it to understand? Will people come back to it? How well is the information conveyed? What sort of impression will it give?</p><ul><li>Practice creating messages, and understand what attracts attention. By building different messages, your ability to comprehend meaning from media will increase.</li></ul>"
+      },
+      {
         "id": 11,
-        "title": "Do not take privacy for granted.",
-        "description": "",
-        "image": ""
-        },
-        {
+        "title": "Do not take privacy for granted",
+        "description": "<p>Everything you do on the internet contributes to your digital footprint. Every video you watch, every ad you click, and every website you visit is meticulously tracked and sold to advertisers. Privacy does not exist in the current internet.</p>"
+      },
+      {
         "id": 12,
-        "title": "Take personal responsibility.",
-        "description": "",
-        "image": ""
-        }
-    ],
-    "pages": [
-        {
-            "id": 1,
-            "title": "What media & media literacy mean to me.",
-            "description": ""
-        }
+        "title": "Take personal responsibility",
+        "description": "<p>The media you consume shapes your way of thinking, regardless if you think it does or not. You must have some sort of self-control, or drive to change your media consumption habits. The first step to changing something is being aware of the problem. It is up to you to understand your level of media literacy. It is up to you to change it, as well. Nobody will do it for you.</p>"
+      }
     ]
-}
+  },
+  {
+    "myGuidelines": [
+      { "id": 1, "title": "", "description": "" },
+      { "id": 2, "title": "", "description": "" },
+      { "id": 3, "title": "", "description": "" },
+      { "id": 4, "title": "", "description": "" },
+      { "id": 5, "title": "", "description": "" },
+      { "id": 6, "title": "", "description": "" }
+    ]
+  }
+]
