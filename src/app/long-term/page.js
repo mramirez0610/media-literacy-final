@@ -12,7 +12,7 @@ export default function LongTerm() {
       try {
         const res = await fetch(path);
         const data = await res.json();
-        setMyGuidelines(data[2].myGuidelines);
+        setLongTerm(data[2].longTerm);
         if (!res.ok) {
           throw new Error(res.status);
         }
@@ -28,7 +28,7 @@ export default function LongTerm() {
     <section>
       <h1>Long Term</h1>
       <ol>
-        {myGuidelines.map((guideline, index) => (
+        {longTerm.map((guideline, index) => (
           <Guideline
             key={index}
             title={guideline.title}
