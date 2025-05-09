@@ -65,12 +65,36 @@
   },
   {
     "myGuidelines": [
-      { "id": 1, "title": "", "description": "" },
-      { "id": 2, "title": "", "description": "" },
-      { "id": 3, "title": "", "description": "" },
-      { "id": 4, "title": "", "description": "" },
-      { "id": 5, "title": "", "description": "" },
-      { "id": 6, "title": "", "description": "" }
+      {
+        "id": 1,
+        "title": "Developing an Awareness of My Exposure",
+        "description": "<h3>Reflection</h3><p>This is an area of my media consumption that I've never paid much attention to before, but have been recently. When it comes to consuming media, I've never really sat down to track what types of media I'm consuming. I've always known my few general topics, but never anything deeper than that. I have noticed that through the years, I've definitely stayed within a state of automaticity and consume mostly the same content.</p><h3>Strategy</h3><p>Currently, the media I consume the most of right now are television programs and films. I've been keeping a very loose media diary within the last 3 weeks or so, and I've noticed a lot of my media exposure is to fictional content, but content that is more rooted in reality. What I'd like to do is consume more educational content, so I'd like to attempt</p>"
+      },
+      {
+        "id": 2,
+        "title": "Acquiring Useful Knowledge",
+        "description": "<h3>Reflection</h3><p>As I stated in the previous guideline, I've admittedly stayed close within my comfort zone for most of my media consumption. It wasn't until a few years ago when I started to engage with opinions I didn't agree with, but it was few and far between. Unfortunately, most of my predisposed knowledge of conflicting opinions is from the mass media. This is something that I'd like to change.</p><h3>Strategy</h3><p>My plan to expand my knowledge is relatively simple on paper, but will be difficult to hold myself to. Once a week I'd like to consume one well-regarded piece of media, more specifically a movie, documentary, or an episode of a show, over a topic that I'm not the biggest fan of. The purpose of this is to see other perspectives that I usually wouldn't align myself with.</p>"
+      },
+      {
+        "id": 3,
+        "title": "Understanding My Mental Codes",
+        "description": "<h3>Reflection</h3><p>Though I feel that I have a good grasp on why I'm consuming the media that I'm consuming, there are times where I feel like I'm falling into the trap. I mentioned that I've been watching a lot of shows lately, but the other avenue I consume is YouTube. Now, I'm ashamed to admit it, but recently I've been consuming nothing of value on YouTube.</p><h3>Strategy</h3><p>My strategy for this guideline is to link this along with my first guideline, and create a section in my media journal where I answer the following in relation to my media consumption for the week:</p><ul><li>\"Whose expectations am I following?\"</li><li>\"Why do I consume this kind of content?\"</li><li>\"Is this serving my needs?\"</li></ul><p>Within due time, I'd like to reframe my mental codes and my approach to my media consumption and</p>"
+      },
+      {
+        "id": 4,
+        "title": "Examining My Opinions",
+        "description": "<h3>Reflection</h3><p>Opinions are very volatile things, and aren't completely static. They change through many different influences, such as the media we consume and the people we interact with. When I look at my opinions, I see that some of them tend to conflict. It's never anything too serious, just small things that I tend to pick up in the videos and shows I watch, but it's interesting to see nonetheless.</p><h3>Strategy</h3><p>My proposed strategy for \"unwinding\" my opinions is by analyzing opinions that I find myself questioning. Attempting to find the source by asking questions such as:</p><ul><li>\"Where did this opinion come from?\"</li><li>\"How did it form? Was it from something I watched or read?\"</li><li>\"For what reasons am I questioning it? Do I genuinely agree with it?\"</li></ul>"
+      },
+      {
+        "id": 5,
+        "title": "Becoming More Skilled at Designing Messages",
+        "description": "<h3>Reflection</h3><p>This is honestly the most important one to me. I'm currently going to school for Web Development and Design. My whole job from here on out is to design and develop messages for the user to interact with. Through my many years of consuming media, this has always been my main goal, to constantly refine my ability to create media.</p><h3>Strategy</h3><p>This whole course has been a way for me to truly understand the underlying information about how messages in the media are formed, what their intentional design is, how these messages are intertwined within media, and how to analyze and therefore recreate these messages. For the foreseeing future, I will be heavily analyzing the media I consume. I would like to know why I'm engaging with it, and why it's brought me back to consume more. Though this isn't a concrete \"plan\", I feel that this is a guideline that will stick for a long time.</p>"
+      },
+      {
+        "id": 6,
+        "title": "Taking Personal Responsibility",
+        "description": "<h3>Reflection</h3><p>Media has swayed my thoughts in many different ways over the years, especially when I was younger. Now that I've grown a good amount, and understand the landscape of media, I understand that it's up to me to consume media that will benefit me in the long run. There are times where I find myself slipping though.</p><h3>Strategy</h3><p>The last area that needs improvement on my part, is the occasional use of social media. I am young, I'm human, I will accidentally spend 3 hours on Instagram. What I've done recently is put a screen time on the apps that I find myself getting lost in. This has helped significantly, and I'd like to bring the time limit lower within the next month.</p>"
+      }
     ]
   }
 ]

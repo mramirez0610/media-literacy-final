@@ -12,7 +12,7 @@ export default function Guidelines() {
       try {
         const res = await fetch(path);
         const data = await res.json();
-        setGuidelines(data.guidelines);
+        setGuidelines(data[0].guidelines);
         if (!res.ok) {
           throw new Error(res.status);
         }
