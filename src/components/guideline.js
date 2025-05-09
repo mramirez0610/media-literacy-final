@@ -21,7 +21,7 @@ export default function Guideline({ title, description }) {
 
       {isOpen && (
         <div className={styles.description}>
-          <ReactMarkdown children={description} rehypePlugins={rehypeRaw} />
+          <ReactMarkdown rehypePlugins={rehypeRaw}>{description}</ReactMarkdown>
         </div>
       )}
     </li>
