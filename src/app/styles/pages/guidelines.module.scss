@@ -1,2 +1,19 @@
-.guidelines {
+.guidelineSection {
+  width: 60vw;
+
+  transition: all 0.3s ease-in-out;
+
+  ol {
+    padding: 0;
+    margin: 0;
+
+    li {
+      margin-bottom: 1rem;
+      transition: margin 0.3s ease-in-out;
+
+      &.expanded {
+        margin-bottom: 2rem; // Adjust spacing when expanded
+      }
+    }
+  }
 }
