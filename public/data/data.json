@@ -68,7 +68,7 @@
       {
         "id": 1,
         "title": "Developing an Awareness of My Exposure",
-        "description": "<h3>Reflection</h3><p>This is an area of my media consumption that I've never paid much attention to before, but have been recently. When it comes to consuming media, I've never really sat down to track what types of media I'm consuming. I've always known my few general topics, but never anything deeper than that. I have noticed that through the years, I've definitely stayed within a state of automaticity and consume mostly the same content.</p><h3>Strategy</h3><p>Currently, the media I consume the most of right now are television programs and films. I've been keeping a very loose media diary within the last 3 weeks or so, and I've noticed a lot of my media exposure is to fictional content, but content that is more rooted in reality. What I'd like to do is consume more educational content, so I'd like to attempt</p>"
+        "description": "<h3>Reflection</h3><p>This is an area of my media consumption that I've never paid much attention to before, but have been recently. When it comes to consuming media, I've never really sat down to track what types of media I'm consuming. I've always known my few general topics, but never anything deeper than that. I have noticed that through the years, I've definitely stayed within a state of automaticity and consume mostly the same content.</p><h3>Strategy</h3><p>Currently, the media I consume the most of right now are television programs and films. I've been keeping a very loose media diary within the last 3 weeks or so, and I've noticed a lot of my media exposure is to fictional content, but content that is more rooted in reality. What I'd like to do is consume more educational content, so I'd like to attempt to view something that teaches me about something I'm not quite familiar on once a week</p>"
       },
       {
         "id": 2,
@@ -97,5 +97,38 @@
       }
     ]
   },
-  { "longTerm": [{ "id": 1 }] }
+  {
+    "longTerm": [
+      {
+        "id": 1,
+        "title": "Developing an Awareness of My Exposure",
+        "description": "<p>My plan to increase my media exposure is as follows:</p><ul><li>Weekly Media diary which includes the type of media I watched, along with its genre and the message I ascertained.</li><li>Monthly check ins to view if I'm unconsciously following a pattern of some sort.</li><li>As I mentioned in the previous page, I'd like to consume content that is foreign to me at least once a week, more specifically educational/research based content on a topic I know little about.</li></ul>"
+      },
+      {
+        "id": 2,
+        "title": "Acquiring Useful Knowledge",
+        "description": "<p>I'd like to seek more knowledge on conflicting opinions. Not just topics I'm unfamiliar with, but topics where I just disagree. I'd also </p>"
+      },
+      {
+        "id": 3,
+        "title": "Understanding My Mental Codes",
+        "description": "<p>As I previously stated, I'd like to keep track of my media consumption within a media journal of some sort, where I not only track my exposure habits, but also analyze why I'm consuming the content that I currently am. If the answers to the questions stated in the previous page don't align with a positive outcome, then reframing is necessary. I'd like to analyze my mental codes every week, and then at the end of each month, decide if my habits are benefiting me or not.</p>"
+      },
+      {
+        "id": 4,
+        "title": "Examining My Opinions",
+        "description": "<p>By tracing the opinions I find myself challenging, I hope to discover my genuine thoughts on matters. I stated that this guideline only relates to small issues most of the time. By learning how to trace these opinions, I feel that the next time I hear or read an opinion that I may not agree with, I'll fully understand why.</p>"
+      },
+      {
+        "id": 5,
+        "title": "Becoming More Skilled at Designing Messages",
+        "description": "<p>This is my most valued guideline. I love to analyze the media that resonates with me, whether it be shows or websites. I'm finally stepping into the professional field of web development, and by analyzing the messages that resonate with me the most, I think I'll be able to decipher what makes those messages so appealing. Through the next months, I'll be practicing my design skills relentlessly. I'll be reading textbooks, attempting newer designs, trying things that I've never tried before.</p>"
+      },
+      {
+        "id": 6,
+        "title": "Taking Personal Responsibility",
+        "description": "<ol><li>This is a guideline that I think everyone should consider incorporating into their daily life and long-term plan. In an age where media consumption is considered an addiction, all it takes is a few days of constantly doomscrolling to fall into the cycle again.</li><li>I've been limiting my screen time on distracting apps to an hour a day. This somehow still feels like too much time in the day, but I can feel my days getting less cluttered due to it.</li></ol>"
+      }
+    ]
+  }
 ]
